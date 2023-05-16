@@ -1,6 +1,7 @@
 # Collection of my papers
 
 Written by: Robby
+My Affiliation: University of Calgary
 
 ## Introduction
 
