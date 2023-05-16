@@ -1,6 +1,6 @@
-# Collection of my papers
+# Collection of our papers
 
-Written by: Robby
+Written by: Robby, and John !
 
 ## Introduction
 
